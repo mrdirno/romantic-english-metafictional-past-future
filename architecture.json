@@ -1,0 +1,72 @@
+{
+  "book_id": "romantic-english-metafictional-past-future",
+  "title": "The Custodian of Antecedent Obligation",
+  "tagline": "A woman inherits a contract that binds her to a secret society, forcing her to navigate a labyrinth of narrative debts where the past and future are locked in a silent, desperate war.",
+  "target_words": 76014,
+  "actual_words": 76014,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Weight of Inherited Narrative",
+    "The Architecture of Time and Memory",
+    "The Metafiction of Contracts and Obligation",
+    "The Search for Sanctuary in a Fractured Past"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "A Letter the Colour of a Bruise",
+      "words": 6910
+    },
+    {
+      "ch": 2,
+      "title": "The Chronos Club's Silent Scream",
+      "words": 6910
+    },
+    {
+      "ch": 3,
+      "title": "The Silence of Ghost Lights",
+      "words": 6910
+    },
+    {
+      "ch": 4,
+      "title": "A Door the Wall Forgot",
+      "words": 6910
+    },
+    {
+      "ch": 5,
+      "title": "A Map of Calfskin and Lies",
+      "words": 6910
+    },
+    {
+      "ch": 6,
+      "title": "The Weeping in the Wood",
+      "words": 6910
+    },
+    {
+      "ch": 7,
+      "title": "Memory with Teeth",
+      "words": 6910
+    },
+    {
+      "ch": 8,
+      "title": "A Descent by Subtraction",
+      "words": 6910
+    },
+    {
+      "ch": 9,
+      "title": "The Heart's Terrible Fragility",
+      "words": 6910
+    },
+    {
+      "ch": 10,
+      "title": "A Geology of Agony",
+      "words": 6910
+    },
+    {
+      "ch": 11,
+      "title": "A Sanctuary of Broken Promises",
+      "words": 6910
+    }
+  ]
+}
